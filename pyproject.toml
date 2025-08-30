@@ -1,3 +1,10 @@
+[tool.poetry]
+name = "rag-pdf-sample"
+version = "1.0.0"
+description = "RAG Model Sample"
+readme = "README.md"
+
+[tool.poetry.dependencies]
 streamlit = "*"
 openai = "*"
 dotenv = "*"
